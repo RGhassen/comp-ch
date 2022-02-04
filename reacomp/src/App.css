@@ -1,0 +1,29 @@
+.nav{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: nowrap;
+  align-items: center;
+  background-color: black;
+}
+.img{
+  margin-top: 89px;
+  border-radius: 210px;
+  width: 300px;
+  margin-right: 75px;
+  height: 300px;
+}
+.name{
+  width: 267px;
+  font-size: 36px;
+  margin-left: 200px;
+  color: wheat;
+}
+.name-last{
+  color: red;
+  font-size: 50px;
+}
+.adres{
+  margin-left: 100px;
+  color: wheat;
+  margin-top: 384px;
+}
